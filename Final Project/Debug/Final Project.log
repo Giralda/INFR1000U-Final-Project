@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ryan\documents\github\final project\final project\main.cpp(11): warning C4101: 'ws': unreferenced local variable
+c:\users\ryan\documents\github\final project\final project\main.cpp(11): warning C4101: 'k': unreferenced local variable
+  Final Project.vcxproj -> C:\Users\Ryan\Documents\GitHub\Final Project\Debug\Final Project.exe
