@@ -1,7 +1,33 @@
-Course(); // Default constructor - no input parameters
-void setTitle(std::string newCourse);
-void setNumber(std::string newNumber);
-void setCapcity(int newCapacity);
-void setSection(int newSection);
-void setSemester(int newSemester);
-void setDepartment(std::string newDepartment);
+#include <iostream>
+#include <string>
+#include "Course.h"
+
+Course::Course()// Default constructor - no input parameters
+{
+	title = number = capacity = section = semester = department = 0
+}
+void Course::setTitle(std::string newCourse)
+{
+	
+}
+
+void Course::setNumber(std::string newNumber)
+{
+
+}
+void Course::setCapcity(int newCapacity)
+{
+
+}
+void Course::setSection(int newSection)
+{
+
+}
+void Course::setSemester(int newSemester)
+{
+
+}
+void Course::setDepartment(std::string newDepartment)
+{
+
+}

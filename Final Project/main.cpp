@@ -4,6 +4,7 @@
 #include "Student.h"
 #include "Faculty.h"
 #include "Course.h"
+#include "Course.cpp"
 
 
 int main()
